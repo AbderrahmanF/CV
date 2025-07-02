@@ -1,0 +1,28 @@
+body{
+ border: 1px solid antiquewhite; 
+width: 70%;
+margin: auto;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+
+h3{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.container{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   flex-wrap:wrap ;
+   align-items: center;
+}
+
+.dateMission{
+text-align: right;
+
+}
