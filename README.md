@@ -3,7 +3,7 @@
 ## Description
 Curriculum Vitae développé en HTML sémantique avec optimisation SEO et intégration des balises OpenGraph.
 
-## Projet URL avec GitHub Pages
+## Projet URL 
 https://abderrahmanf.github.io/CV/
 
 ## Projet URL Repository
